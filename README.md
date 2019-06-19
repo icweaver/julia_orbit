@@ -2,4 +2,4 @@
 
 a barebones orbital integrator to help me learn Julia
 
-![trajectory_plot](Figures/trajectory.png)
+![trajectory_plot](Figures/plot.png)
